@@ -1,0 +1,304 @@
+@media (max-width: 768px){
+	.nav-menu{
+		display: none;
+	}
+	.menu-icon{
+		display: block;
+	}
+	.menu-item{
+		font-size: 12px;
+	}
+	.menu-item .icon{
+		font-size: 20px;
+	}
+	.block .box0{
+		backdrop-filter: brightness(0.6);
+	}
+	.bob1{
+	  width: 540px;
+	  height: fit-content;
+	}
+	.bod{
+	  width: 530px;
+	  height: 207px;
+	  margin: 20px auto 0;
+	}
+	.bob{
+	  width: 513px;
+	  height: 494px;
+	  margin-right: 30px;
+	}
+	.bob h1 {
+	  font-size: 90px;
+	  margin-top: 70px;
+	  margin: 20px 50px 0 100px;
+	}
+	.bob p{
+		color: white;
+	}
+	.box3 img{
+	  width: 500px;
+	  height: 380px;
+	  margin: 60px auto 0 0;
+	  left: 80px;
+	  top: 50px;
+	}
+	.bob4{
+	  width: 346px;
+	  height: 758px;
+	  left: 259px;
+	}
+	.boxtext{
+	  width: 441px;
+	  height: 369px;
+	  right: 100px;
+	  margin: 300px 0 auto;
+	}
+	.boxtext h1{
+	  font-size: 60px;
+	  margin: 30px auto 0 20px;
+	}
+	.boxtext p{
+	  margin: 20px 40px 0 20px;
+	  font-size: 18px;
+	}
+	.boxtext button{
+	  margin: 45px 80px 0 auto;
+	  margin-left: 20px;
+	}
+	.box4 h3{
+	  font-size: 50px;
+	  margin: 100px 0 0 150px;
+	}
+	.box4 p{
+	  font-size: 20px;
+	  margin: 100px 80px 0 150px;
+	}
+	.box4 button{
+	  margin: 45px 80px 0 auto;
+	  margin-left: 150px;
+	}
+}
+
+@media(max-width: 567px){
+	.bottom-menu{
+		padding: 20px 0;
+		display: flex;
+	}
+	.block{
+		background-position: 41.1% 50%;
+	}
+	.bob1{
+	  width: 340px;
+	  height: fit-content;
+	}
+	.bod{
+	  width: 330px;
+	  height: 238px;
+	  margin: 20px auto 0;
+	}
+	.bob{
+	  width: 340px;
+	  height: 454px;
+	  margin: auto;
+	}
+	.bob h1 {
+	  font-size: 70px;
+	  margin-top: 70px;
+	  margin: 20px 10px 0 30px;
+	}
+	.bob p{
+	  color: white;
+	  margin: 32px 30px 0 28px;
+	}
+	.bob .text{
+	  color: white;
+	}
+	.bob button{
+	  margin-left: 80px;
+	}
+	.bob2{
+	  width: 350px;
+	  height: 492px;
+	}
+	.bob2 h2{
+	  font-size: 40px;
+	  margin: 150px 0 0;
+	}
+	.bob2 p{
+	  font-size: 18px;
+	  margin: 30px 4px 0 0;
+	}
+	.circle{
+	  width: 278px;
+	  height: 278px;
+	  margin: 50px 46px 0 auto;
+	}
+	.img{
+	  width: 258px;
+	  height: 258px;
+	  margin: -200px auto 0 10px;
+	}
+	.box2 h1{
+	  font-size: 30px;
+	}
+	.bob3{
+	  width: 300px;
+	  grid-template-columns: 100%;
+	}
+	.bob3 img{
+	  width: 300px;
+	  height: 306px;
+	  margin: auto;
+	}
+	.borderbox{
+	  background: white;
+	  width: 280px;
+	  height: 242px;
+	  margin: auto;
+	}
+	.borderbox h4{
+	  font-size: 25px;
+	}
+	.box3 img{
+	  width: 240px;
+	  height: 280px;
+	  margin: 60px auto 0 0;
+	  left: 80px;
+	  top: 50px;
+	}
+	.bob4{
+	  width: 246px;
+	  height: 700px;
+	  left: 100px;
+	}
+	.boxtext{
+	  width: 241px;
+	  height: 369px;
+	  right: 100px;
+	  margin: 300px 0 auto;
+	}
+	.boxtext h1{
+	  font-size: 30px;
+	  margin: 30px auto 0 20px;
+	}
+	.boxtext p{
+	  margin: 20px 20px 0 20px;
+	  font-size: 18px;
+	}
+	.boxtext button{
+	  margin: 25px 20px 0 auto;
+	  margin-left: 20px;
+	}
+	.box4 h3{
+	  font-size: 60px;
+	  margin: 100px 100px 0 100px;
+	}
+	.box4 p{
+	  font-size: 20px;
+	  margin: 100px 100px 0 100px;
+	}
+	.box4 button{
+	  margin: 45px 80px 0 auto;
+	  margin-left: 100px;
+	}
+}
+@media (max-width: 400px){
+	.logo{
+		font-size: 40px;
+	}
+	.bob1{
+	  width: 300px;
+	  height: fit-content;
+	}
+	.bod{
+	  width: 280px;
+	  height: 250px;
+	  margin: 20px auto 0;
+	}
+	.bob{
+	  width: 300px;
+	  height: 454px;
+	  margin: auto;
+	}
+	.bob h1 {
+	  font-size: 60px;
+	  margin-top: 70px;
+	  margin: 20px 10px 0 30px;
+	}
+	.bob p{
+	  color: white;
+	  margin: 32px 10px 0 20px;
+	  text-align: center;
+	}
+	.bob .text{
+	  color: white;
+	}
+	.bob button{
+	  margin-left: 48.5px;
+	}
+	.bob2{
+	  width: 300px;
+	  height: 492px;
+	}
+	.bob2 h2{
+	  font-size: 40px;
+	  margin: 90px 0 0;
+	}
+	.bob2 p{
+	  font-size: 18px;
+	  margin: 30px 4px 0 0;
+	}
+	.circle{
+	  width: 278px;
+	  height: 278px;
+	  margin: 50px 46px 0 auto;
+	}
+	.img{
+	  width: 258px;
+	  height: 258px;
+	  margin: -200px auto 0 10px;
+	}
+	.box3 img{
+	  width: 240px;
+	  height: 280px;
+	  margin: 60px auto 0 0;
+	  left: 30px;
+	  top: 50px;
+	}
+	.bob4{
+	  width: 246px;
+	  height: 700px;
+	  left: 50px;
+	}
+	.boxtext{
+	  width: 241px;
+	  height: 369px;
+	  right: 10px;
+	  margin: 300px 0 auto;
+	}
+	.boxtext h1{
+	  font-size: 30px;
+	  margin: 30px auto 0 20px;
+	}
+	.boxtext p{
+	  margin: 20px 20px 0 20px;
+	  font-size: 18px;
+	}
+	.boxtext button{
+	  margin: 25px 20px 0 auto;
+	  margin-left: 20px;
+	}
+	.box4 h3{
+	  font-size: 50px;
+	  margin: 100px 50px 0 30px;
+	}
+	.box4 p{
+	  font-size: 20px;
+	  margin: 100px 50px 0 30px;
+	}
+	.box4 button{
+	  margin: 45px 80px 0 auto;
+	  margin-left: 50px;
+	}
+}
